@@ -13,15 +13,15 @@ _Python, PHP, FastAPI, Bash (ShellScript)_
 
 ### Frontend
 
-_Next.js, React, Redux, TypeScript, JavaScript, jQuery, Tailwind CSS, Sass, CSS, HTML_
+_Next.js, React, Redux Toolkit, TypeScript, JavaScript, jQuery, Tailwind CSS, Sass, CSS, HTML_
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,jquery,tailwind,sass,css,html)](https://skillicons.dev)
 
 ### OS, Middleware, Tools, etc...
 
-_AWS, Linux, MySQL, Git, GitHub, VSCode, Selenium_
+_AWS, MySQL, Linux, Git (GitHub, CodeCommit, Bitbucket), VSCode, Selenium_
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,mysql,git,github,vscode,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,mysql,linux,git,vscode,selenium)](https://skillicons.dev)
 
 ## Learning
 
