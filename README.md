@@ -39,4 +39,4 @@ themes:
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=const-falcon&layout=compact&theme=nightowl&exclude_repo=dotfiles)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8823-dev&layout=compact&theme=nightowl&exclude_repo=dotfiles)
