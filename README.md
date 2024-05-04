@@ -7,9 +7,9 @@ https://github.com/tandpfun/skill-icons
 
 ### Backend
 
-_Python, FastAPI, PHP_
+_FastAPI, Python, PHP_
 
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,py,php)](https://skillicons.dev)
 
 ### Frontend
 
