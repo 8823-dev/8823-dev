@@ -7,27 +7,27 @@ https://github.com/tandpfun/skill-icons
 
 ### Backend
 
-_Python, PHP, FastAPI, Bash (ShellScript)_
+_Python (FastAPI), PHP_
 
-[![My Skills](https://skillicons.dev/icons?i=py,php,fastapi,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,php)](https://skillicons.dev)
 
 ### Frontend
 
-_Next.js, React, Redux Toolkit, TypeScript, JavaScript, jQuery, Tailwind CSS, Sass, CSS, HTML_
+_Next.js, React, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, jQuery_
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,jquery,tailwind,sass,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,redux,tailwind,jquery)](https://skillicons.dev)
 
 ### OS, Middleware, Tools, etc...
 
-_AWS, MySQL, Linux, Git (GitHub, CodeCommit, Bitbucket), VSCode, Selenium_
+_AWS, MySQL, Linux, Docker, Selenium, VSCode, ShellScript (Bash, Fish), Git (GitHub, CodeCommit, Bitbucket, Gitea)_
 
-[![My Skills](https://skillicons.dev/icons?i=aws,mysql,linux,git,vscode,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,mysql,linux,docker,selenium,vscode,git)](https://skillicons.dev)
 
 ## Learning
 
-_Jest, Astro_
+_Jest, Vite_
 
-[![My Skills](https://skillicons.dev/icons?i=jest,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,vite)](https://skillicons.dev)
 
 ## Top Langs
 
