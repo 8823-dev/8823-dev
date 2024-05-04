@@ -7,7 +7,7 @@ https://github.com/tandpfun/skill-icons
 
 ### Backend
 
-_Python (FastAPI), PHP_
+_Python, FastAPI, PHP_
 
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,php)](https://skillicons.dev)
 
@@ -21,7 +21,7 @@ _Next.js, React, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, jQuery_
 
 _AWS, MySQL, Linux, Docker, Selenium, VSCode, ShellScript (Bash, Fish), Git (GitHub, CodeCommit, Bitbucket, Gitea)_
 
-[![My Skills](https://skillicons.dev/icons?i=aws,mysql,linux,docker,selenium,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,mysql,linux,docker,selenium,vscode,bash,git)](https://skillicons.dev)
 
 ## Learning
 
