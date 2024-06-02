@@ -25,9 +25,9 @@ _AWS, MySQL, Linux, Docker, Selenium, VSCode, ShellScript (Bash, Fish), Git (Git
 
 ## Learning
 
-_Rust, Jest_
+_Rust, DynamoDB, Jest_
 
-[![My Skills](https://skillicons.dev/icons?i=rust,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,dynamodb,jest)](https://skillicons.dev)
 
 ## Top Langs
 
