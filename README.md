@@ -1,42 +1,23 @@
-## My Skills
+# My Skills
 
-<!--
-skill-icons:
-https://github.com/tandpfun/skill-icons
--->
+## Backend
 
-### Backend
+_Python (FastAPI, Selenium), PHP (CakePHP, Smarty), Rust (Actix Web)_
 
-_FastAPI, Python, PHP_
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,selenium,php,rust)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,py,php)](https://skillicons.dev)
+## Frontend
 
-### Frontend
+_React (Next.js, Redux Toolkit, Recoil), TypeScript, JavaScript (jQuery, GAS), Tailwind CSS_
 
-_Next.js, React, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, jQuery_
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,jquery,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,redux,tailwind,jquery)](https://skillicons.dev)
+## Middleware, Tools, OS, etc...
 
-### OS, Middleware, Tools, etc...
+_MySQL, DynamoDB, ShellScript (Bash, Fish), AWS, Linux, Docker_
 
-_AWS, MySQL, Linux, Docker, Selenium, VSCode, ShellScript (Bash, Fish), Git (GitHub, CodeCommit, Bitbucket, Gitea)_
+[![My Skills](https://skillicons.dev/icons?i=mysql,dynamodb,bash,aws,linux,docker)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,mysql,linux,docker,selenium,vscode,bash,git)](https://skillicons.dev)
-
-## Learning
-
-_Rust, DynamoDB, Jest_
-
-[![My Skills](https://skillicons.dev/icons?i=rust,dynamodb,jest)](https://skillicons.dev)
-
-## Top Langs
-
-<!--
-compact-language-card-layout:
-https://github.com/anuraghazra/github-readme-stats#compact-language-card-layout
-
-themes:
-https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
--->
+# Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8823-dev&layout=compact&theme=nightowl&exclude_repo=dotfiles)
