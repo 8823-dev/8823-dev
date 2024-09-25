@@ -2,9 +2,9 @@
 
 ## Backend
 
-_Python (FastAPI, Selenium), PHP (CakePHP, Smarty), Rust (Actix Web)_
+_Python (FastAPI, Selenium), PHP (CakePHP, Smarty), Rust (Actix Web), Node.js_
 
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,selenium,php,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,selenium,php,rust,actix,nodejs)](https://skillicons.dev)
 
 ## Frontend
 
@@ -14,9 +14,9 @@ _React (Next.js, Redux Toolkit, Recoil), TypeScript, JavaScript (jQuery, GAS), T
 
 ## Middleware, Tools, OS, etc...
 
-_MySQL, DynamoDB, ShellScript (Bash, Fish), AWS, Linux, Docker_
+_MySQL, DynamoDB, ShellScript (Bash, Fish), AWS, Linux, Docker, Git (GitHub, CodeCommit, Bitbucket, Gitea)_
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,dynamodb,bash,aws,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,dynamodb,bash,aws,linux,docker,git)](https://skillicons.dev)
 
 # Top Langs
 
