@@ -1,27 +1,23 @@
-# My skills
-
-## Backend
-
-_Python (FastAPI, Selenium), PHP (CakePHP, Smarty), Rust (Actix Web), ShellScript (Bash, Fish), Node.js_
-
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,selenium,php,rust,actix,bash,nodejs)](https://skillicons.dev)
+# Tech Stack
 
 ## Frontend
 
-_React (Next.js, Redux Toolkit, Recoil), TypeScript, Kotlin (Android, Jetpack Compose), JavaScript (jQuery, GAS), Tailwind CSS_
+_React, Next.js, TypeScript, JavaScript, Redux Toolkit, Recoil, Tailwind CSS_
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,ts,kotlin,androidstudio,js,jquery,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind)](https://skillicons.dev)
 
-## Middleware, Tools, OS, etc...
+## Backend
 
-_AWS, Linux, MySQL, NoSQL (DynamoDB), Docker, Git (GitHub, CodeCommit, Bitbucket, Gitea)_
+_PHP (Laravel), Python (FastAPI), Rust (Actix Web)_
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,mysql,dynamodb,docker,git)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=php,laravel,py,fastapi,rust,actix)](https://skillicons.dev)
 
-# Top langs
+## Tools & Environment
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8823-dev&layout=compact&theme=nightowl&exclude_repo=dotfiles)
+_AWS, Linux, Docker, MySQL, DynamoDB, Git_
 
-# Last updated
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,mysql,dynamodb,git)](https://skillicons.dev)
 
-2025/09/15
+# Last Updated
+
+2026/05/22
